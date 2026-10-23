@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" fill="#f1f1ee"/>
+  <!-- Player square (black body) -->
+  <rect x="28" y="24" width="72" height="72" fill="#0b0b0c"/>
+  <!-- Eyes (white, matching body background) -->
+  <rect x="48" y="52" width="16" height="8" fill="#f1f1ee"/>
+  <rect x="76" y="52" width="16" height="8" fill="#f1f1ee"/>
+  <!-- Title -->
+  <text x="64" y="116" text-anchor="middle" font-family="monospace" font-size="22" font-weight="bold" fill="#0b0b0c" letter-spacing="4">EXOTIC</text>
+</svg>

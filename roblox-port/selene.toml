@@ -1,0 +1,6 @@
+std = "roblox"
+
+[lints]
+# The port mirrors TypeScript callback/event patterns; these are noisy here.
+unused_variable = "allow"
+shadowing = "allow"
